@@ -1,6 +1,13 @@
 # randomNumberGame
-Random Sayi Uygulamasi 
-Kucuk cocuklar icin sayilari egitici ogretici bir uygulama olup
-Sayilar arasindaki buyukluk kucukluk kuramini kurabilir
-Sayilarin tek cift kuramini ogrenir  
-Uygulama uygun sayiyi belirlenen hak sayisina gore buldurur
+
+Educational Numbers Learning App for Children
+This application is an educational tool designed to teach numbers to young children in an interactive and engaging way.
+
+The application enables children to:
+Understand the concept of greater than and less than between numbers
+Learn the difference between even and odd numbers
+Identify the correct number within a limited number of attempts
+The app provides a structured and child-friendly learning experience to support early mathematical development.
+
+
+
